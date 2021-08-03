@@ -1,0 +1,22 @@
+{
+  "name": "@dasha.ai/discord-bot",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "@types/dotenv": "^8.2.0",
+    "prettier": "^2.3.2"
+  },
+  "dependencies": {
+    "@dasha.ai/discord": "^0.1.0",
+    "@dasha.ai/sdk": "^0.5.1",
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "winston": "^3.3.3"
+  }
+}
